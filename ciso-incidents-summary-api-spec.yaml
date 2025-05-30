@@ -6,7 +6,7 @@ info:
     version: "0.0.1"
 
 servers:
-  - url: https://prod-175.westeurope.logic.azure.com:443/
+  - url: https://prod-175.westeurope.logic.azure.com:443
 
 paths:
     /workflows/6fcaf4a7efcb4b3a83480c418080bb60/triggers/AnalyzeUPNsCall/paths/invoke:    
